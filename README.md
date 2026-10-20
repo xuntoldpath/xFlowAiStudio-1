@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="xPreview.jpg" alt="xFlowAiStudio Project Preview" width="100%">
+  <img src="xPreview.jpg" alt="xFlowAiStudio Preview" width="100%">
 </p>
 
 # xFlowAiStudio
