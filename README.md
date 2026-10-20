@@ -9,7 +9,6 @@
 xFlowAiStudio is a lightweight browser extension designed to simplify access to Google Flow and Google AI Studio. Built with a clean, modern interface, it aims to make your creative workflow simpler and more convenient.
 
 **Features**
-
 * Minimal, modern interface
 * Quick and simple controls
 * Designed for a smoother creative workflow
