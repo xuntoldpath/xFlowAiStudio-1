@@ -1,4 +1,6 @@
-"xFlowAiStudio Project Preview" (xPreview.jpg)
+<p align="center">
+  <img src="xPreview.jpg" alt="xFlowAiStudio Project Preview" width="100%">
+</p>
 
 # xFlowAiStudio
 
