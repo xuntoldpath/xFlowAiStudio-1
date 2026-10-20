@@ -12,3 +12,5 @@ xFlowAiStudio is a lightweight browser extension designed to simplify access to 
 * Independent community project
 
 xFlowAiStudio is an independent project and is not affiliated with, endorsed by, or officially connected to Google.
+---
+https://t.me/UntoldPath
