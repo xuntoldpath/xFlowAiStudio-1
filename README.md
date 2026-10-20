@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="xFlowAiStudio xPreview.jpg" width="100%">
+</p>
 # xFlowAiStudio
 
 ### A smoother way to access your AI creative tools.
